@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ST10454062 BUNNYGOTCHI</string>
+
+    <!-- Blank string-->
+    <string name="blank">      </string>
+
+    <!-- feedtext string-->
+    <string name="feedtxt">%</string>
+
+    <!-- feedProgress string-->
+    <string name="feedProgress">eating…</string>
+
+    <!-- cleanProgress string-->
+    <string name="cleanProgress">cleaning…</string>
+
+    <!-- playProgress string-->
+    <string name="playProgress">playing…</string>
+
+    <!-- explainText string-->
+    <string name="explainText">Bunny</string>
+
+
+
+</resources>
